@@ -21,7 +21,7 @@ int main(){
 	iter=root;
 	
 	while(iter->next!=NULL){
-		if(iter==root){//en başa ekleme yapcağımızdan dolayı iter roota eşitse temp next değerine root u koyuyorum ve daha sonra root=temp diyorum
+		if(iter==root){//en baÃ¾a ekleme yapcaÃ°Ã½mÃ½zdan dolayÃ½ iter roota eÃ¾itse temp next deÃ°erine root u koyuyorum ve daha sonra root=temp diyorum
 			temp->next=root;
 		    root=temp;
 		    break;
@@ -37,7 +37,7 @@ int main(){
 
 
 
-//Bağlı listemizi burda tanımladım 5 elemanı olan bir bagli list	
+//BaÃ°lÃ½ listemizi burda tanÃ½mladÃ½m 5 elemanÃ½ olan bir bagli list	
 	void bagla (node* iterf){
 	    int i; 
 	    for(i;i<10;i++){
