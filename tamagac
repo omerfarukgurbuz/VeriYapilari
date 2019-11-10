@@ -92,13 +92,6 @@ void bubbleSort(int* girdi)
 
 
 
-/*
- hocam ben simdi bu usteki kısımda sonucu bulabiliyorum fakat agaca atmadan yapiyo kod bunu agaca atma 
- kismini asagida iki hatta uc sekilde yaptik tabi bu agacdan kastim tamagac yoksa diger turlu kolay oluyo her turlu 
- konusmustuk bunu// simdi alttaki ilk kod bunu cok iyi yapiyo fakat surekli kullanicidan yon gostermesini istedigi icin
- kullanmadim onu ama bu isi iyi yapiyo kesinlikle//   diger 2. kod ise ilk 9 elemana kadar iyi calisiyo 9.dan sonra rastgele sag
- veya solda biyere ekleme yapiyo   
- */
 
 
 
